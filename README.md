@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ...
 --->
 
-Developing various tools of worrying usefulness
+Developing tools of varying usefulness
 
 <!---
 wschack31/wschack31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
